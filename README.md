@@ -1,7 +1,7 @@
-Academic Publications Data Processing
-Overview
-This project involves fetching, filtering, and exporting academic publications from various sources, specifically Google Scholar and DBLP. The goal is to enable users to retrieve publication data based on a professor's name, filter it by year range, and export the results in Excel or Word formats.
-Features
-Data Retrieval: Fetch publication data from Google Scholar and DBLP.
-Data Filtering: Filter publications based on year range.
-Data Export: Export filtered data to Excel or Word formats.
+This project enables users to fetch and analyze academic publications from Google Scholar and DBLP. It provides functionality to retrieve publication data based on a professor's name, filter results by a specified year range, and export the filtered data to Excel or Word formats. The solution utilizes Google Colab for running the code, combining data from different sources, and handling various data processing tasks. Users can seamlessly integrate these steps into their workflow to manage and analyze academic publications efficiently.
+
+
+
+
+
+
